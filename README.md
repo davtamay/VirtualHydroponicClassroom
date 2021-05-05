@@ -2,7 +2,7 @@
 Proof of concept project done for a [Engaging Educational Tech project under a Curriculum and Instruction course at the University of Illinois at Champaign-Urbana](https://education.illinois.edu/course/CI/489). It involved working with graduate students to develope an engaging educational application to teach educational concepts. 
 
 ## Designer Collaborators
-Undergraduate students from the University of Illinois-Urbana-Champaign: Zhiqing Zheng; Ivan Liu, Xue Lin;  
+Graduate student in Curriculum and Instruction, Annabelle Daily  
 
 ![VirtualHydroponicClassroom](MyRepoFiles/gameWalkthrough.gif)
 
