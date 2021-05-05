@@ -6,8 +6,9 @@ Undergraduate students from the University of Illinois-Urbana-Champaign: Zhiqing
 
 ![VirtualHydroponicClassroom](MyRepoFiles/gameWalkthrough.gif)
 
-## Teaching about Hydroponics by providing a collaborative hands on opportunity to build such a system with others in VR. One is scaffolded through video lessons of someone building such system, and by using ghost objects to help the user know where to place components.
-- 
+## Teaching about Hydroponics Through Building a System
+By providing a collaborative hands on opportunity to build such a system with others in VR, One is scaffolded through video lessons of someone building such system, and by using ghost objects to help the user know where to place components.
+
 ## Unity Project
 The project was build to webgl using WebXR specifications and was build on top of the Komodo project (see repositories). it could be used through mobile, desktop and virtual reality (although, the controlls using a headset are not setup currently). Building it for the web offer the ability to test it when it was being presented in the courese (I provided the project here, but if there is interest for a live demo, I can rebuild it again, and share it here).
 
