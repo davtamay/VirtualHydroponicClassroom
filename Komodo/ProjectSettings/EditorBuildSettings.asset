@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Models/Synced_Main_Scene 1.unity
+    guid: d9b311ea05437ca42a3686bd37dd00ab
+  - enabled: 1
+    path: Assets/Scripts/TriLib/TriLib/Resources/Environment/Outdoors.unity
+    guid: f5dc2e699ac99ae4fb46cdf7f468e065
+  - enabled: 1
+    path: Assets/FashionCritique/Fashion Critique.unity
+    guid: 7805b510a0a994b40bdc3b40c3d75b37
+  m_configObjects: {}

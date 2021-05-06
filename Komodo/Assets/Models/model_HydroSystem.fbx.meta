@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 3ade1271ee117ce409cb317035125cf2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 32"PVCPipe
+    100002: 32"PVCPipe.001
+    100004: 32"PVCPipe_Large
+    100006: 32"PVCPipe_Large.001
+    100008: 32"PVCPipe_Med
+    100010: 32"PVCPipe_Med.001
+    100012: 32"PVCPipe_Med.002
+    100014: 32"PVCPipe_Med.003
+    100016: 32"PVCPipe_Med.004
+    100018: 32"PVCPipe_Med.005
+    100020: 32"PVCPipe_Small
+    100022: 32"PVCPipe_Small.001
+    100024: 32"PVCPipe_Small.002
+    100026: 32"PVCPipe_Small.003
+    100028: 32MM PVC TEE
+    100030: 32MM PVC TEE.001
+    100032: 32MM PVC TEE.002
+    100034: 32MM PVC TEE.003
+    100036: 32MM PVC TEE.004
+    100038: 32MM PVC TEE.005
+    100040: 32MM PVC TEE.006
+    100042: 32MM PVC TEE.007
+    100044: 32mm SOCKET
+    100046: 32mm SOCKET.001
+    100048: 32mm SOCKET.002
+    100050: 32mm SOCKET.003
+    100052: 4" pipe clip
+    100054: 4" pipe clip.001
+    100056: 4" pipe clip.002
+    100058: 4" pipe clip.003
+    100060: 4" pipe clip.004
+    100062: 4" pipe clip.005
+    100064: 4" pipe clip.006
+    100066: 4" pipe clip.007
+    100068: 4" PVC pipe (3FT)
+    100070: 4" PVC pipe (3FT).001
+    100072: 4" PVC pipe (3FT).002
+    100074: 4" PVC pipe (3FT).003
+    100076: 4''endCap
+    100078: 4''endCap.001
+    100080: 4''endCap.002
+    100082: 4''endCap.003
+    100084: 4''endCap.004
+    100086: 4''endCap.005
+    100088: 4''endCap.006
+    100090: 4''endCap.007
+    100092: Dirt
+    100094: Dirt.001
+    100096: Dirt.002
+    100098: Dirt.003
+    100100: Dirt.004
+    100102: Dirt.005
+    100104: Dirt.006
+    100106: Dirt.007
+    100108: Dirt.008
+    100110: Dirt.009
+    100112: Dirt.010
+    100114: Dirt.011
+    100116: Dirt.012
+    100118: Dirt.013
+    100120: Dirt.014
+    100122: Dirt.015
+    100124: Dirt.016
+    100126: Dirt.017
+    100128: Dirt.018
+    100130: Dirt.019
+    100132: Dirt.020
+    100134: Dirt.021
+    100136: Dirt.022
+    100138: Dirt.023
+    100140: Dirt.024
+    100142: Dirt.025
+    100144: Dirt.026
+    100146: Dirt.027
+    100148: Dirt.028
+    100150: Dirt.029
+    100152: Elbow Joint.010
+    100154: Elbow Joint.011
+    100156: Elbow Joint.012
+    100158: Elbow Joint.013
+    100160: Hydro_Containers
+    100162: Hydro_Stand
+    100164: //RootNode
+    100166: Plastic_Cup
+    100168: Plastic_Cup.001
+    100170: Plastic_Cup.002
+    100172: Plastic_Cup.003
+    100174: Plastic_Cup.004
+    100176: Plastic_Cup.005
+    100178: Plastic_Cup.006
+    100180: Plastic_Cup.007
+    100182: Plastic_Cup.008
+    100184: Plastic_Cup.009
+    100186: Plastic_Cup.010
+    100188: Plastic_Cup.011
+    100190: Plastic_Cup.012
+    100192: Plastic_Cup.013
+    100194: Plastic_Cup.014
+    100196: Plastic_Cup.015
+    100198: Plastic_Cup.016
+    100200: Plastic_Cup.017
+    100202: Plastic_Cup.018
+    100204: Plastic_Cup.019
+    100206: Plastic_Cup.020
+    100208: Plastic_Cup.021
+    100210: Plastic_Cup.022
+    100212: Plastic_Cup.023
+    100214: Plastic_Cup.024
+    100216: Plastic_Cup.025
+    100218: Plastic_Cup.026
+    100220: Plastic_Cup.027
+    100222: Plastic_Cup.028
+    100224: Plastic_Cup.029
+    400000: 32"PVCPipe
+    400002: 32"PVCPipe.001
+    400004: 32"PVCPipe_Large
+    400006: 32"PVCPipe_Large.001
+    400008: 32"PVCPipe_Med
+    400010: 32"PVCPipe_Med.001
+    400012: 32"PVCPipe_Med.002
+    400014: 32"PVCPipe_Med.003
+    400016: 32"PVCPipe_Med.004
+    400018: 32"PVCPipe_Med.005
+    400020: 32"PVCPipe_Small
+    400022: 32"PVCPipe_Small.001
+    400024: 32"PVCPipe_Small.002
+    400026: 32"PVCPipe_Small.003
+    400028: 32MM PVC TEE
+    400030: 32MM PVC TEE.001
+    400032: 32MM PVC TEE.002
+    400034: 32MM PVC TEE.003
+    400036: 32MM PVC TEE.004
+    400038: 32MM PVC TEE.005
+    400040: 32MM PVC TEE.006
+    400042: 32MM PVC TEE.007
+    400044: 32mm SOCKET
+    400046: 32mm SOCKET.001
+    400048: 32mm SOCKET.002
+    400050: 32mm SOCKET.003
+    400052: 4" pipe clip
+    400054: 4" pipe clip.001
+    400056: 4" pipe clip.002
+    400058: 4" pipe clip.003
+    400060: 4" pipe clip.004
+    400062: 4" pipe clip.005
+    400064: 4" pipe clip.006
+    400066: 4" pipe clip.007
+    400068: 4" PVC pipe (3FT)
+    400070: 4" PVC pipe (3FT).001
+    400072: 4" PVC pipe (3FT).002
+    400074: 4" PVC pipe (3FT).003
+    400076: 4''endCap
+    400078: 4''endCap.001
+    400080: 4''endCap.002
+    400082: 4''endCap.003
+    400084: 4''endCap.004
+    400086: 4''endCap.005
+    400088: 4''endCap.006
+    400090: 4''endCap.007
+    400092: Dirt
+    400094: Dirt.001
+    400096: Dirt.002
+    400098: Dirt.003
+    400100: Dirt.004
+    400102: Dirt.005
+    400104: Dirt.006
+    400106: Dirt.007
+    400108: Dirt.008
+    400110: Dirt.009
+    400112: Dirt.010
+    400114: Dirt.011
+    400116: Dirt.012
+    400118: Dirt.013
+    400120: Dirt.014
+    400122: Dirt.015
+    400124: Dirt.016
+    400126: Dirt.017
+    400128: Dirt.018
+    400130: Dirt.019
+    400132: Dirt.020
+    400134: Dirt.021
+    400136: Dirt.022
+    400138: Dirt.023
+    400140: Dirt.024
+    400142: Dirt.025
+    400144: Dirt.026
+    400146: Dirt.027
+    400148: Dirt.028
+    400150: Dirt.029
+    400152: Elbow Joint.010
+    400154: Elbow Joint.011
+    400156: Elbow Joint.012
+    400158: Elbow Joint.013
+    400160: Hydro_Containers
+    400162: Hydro_Stand
+    400164: //RootNode
+    400166: Plastic_Cup
+    400168: Plastic_Cup.001
+    400170: Plastic_Cup.002
+    400172: Plastic_Cup.003
+    400174: Plastic_Cup.004
+    400176: Plastic_Cup.005
+    400178: Plastic_Cup.006
+    400180: Plastic_Cup.007
+    400182: Plastic_Cup.008
+    400184: Plastic_Cup.009
+    400186: Plastic_Cup.010
+    400188: Plastic_Cup.011
+    400190: Plastic_Cup.012
+    400192: Plastic_Cup.013
+    400194: Plastic_Cup.014
+    400196: Plastic_Cup.015
+    400198: Plastic_Cup.016
+    400200: Plastic_Cup.017
+    400202: Plastic_Cup.018
+    400204: Plastic_Cup.019
+    400206: Plastic_Cup.020
+    400208: Plastic_Cup.021
+    400210: Plastic_Cup.022
+    400212: Plastic_Cup.023
+    400214: Plastic_Cup.024
+    400216: Plastic_Cup.025
+    400218: Plastic_Cup.026
+    400220: Plastic_Cup.027
+    400222: Plastic_Cup.028
+    400224: Plastic_Cup.029
+    2100000: Material.002
+    2100002: Material.001
+    2100004: No Name
+    2100006: Material.003
+    2300000: 32"PVCPipe
+    2300002: 32"PVCPipe.001
+    2300004: 32"PVCPipe_Large
+    2300006: 32"PVCPipe_Large.001
+    2300008: 32"PVCPipe_Med
+    2300010: 32"PVCPipe_Med.001
+    2300012: 32"PVCPipe_Med.002
+    2300014: 32"PVCPipe_Med.003
+    2300016: 32"PVCPipe_Med.004
+    2300018: 32"PVCPipe_Med.005
+    2300020: 32"PVCPipe_Small
+    2300022: 32"PVCPipe_Small.001
+    2300024: 32"PVCPipe_Small.002
+    2300026: 32"PVCPipe_Small.003
+    2300028: 32MM PVC TEE
+    2300030: 32MM PVC TEE.001
+    2300032: 32MM PVC TEE.002
+    2300034: 32MM PVC TEE.003
+    2300036: 32MM PVC TEE.004
+    2300038: 32MM PVC TEE.005
+    2300040: 32MM PVC TEE.006
+    2300042: 32MM PVC TEE.007
+    2300044: 32mm SOCKET
+    2300046: 32mm SOCKET.001
+    2300048: 32mm SOCKET.002
+    2300050: 32mm SOCKET.003
+    2300052: 4" pipe clip
+    2300054: 4" pipe clip.001
+    2300056: 4" pipe clip.002
+    2300058: 4" pipe clip.003
+    2300060: 4" pipe clip.004
+    2300062: 4" pipe clip.005
+    2300064: 4" pipe clip.006
+    2300066: 4" pipe clip.007
+    2300068: 4" PVC pipe (3FT)
+    2300070: 4" PVC pipe (3FT).001
+    2300072: 4" PVC pipe (3FT).002
+    2300074: 4" PVC pipe (3FT).003
+    2300076: 4''endCap
+    2300078: 4''endCap.001
+    2300080: 4''endCap.002
+    2300082: 4''endCap.003
+    2300084: 4''endCap.004
+    2300086: 4''endCap.005
+    2300088: 4''endCap.006
+    2300090: 4''endCap.007
+    2300092: Dirt
+    2300094: Dirt.001
+    2300096: Dirt.002
+    2300098: Dirt.003
+    2300100: Dirt.004
+    2300102: Dirt.005
+    2300104: Dirt.006
+    2300106: Dirt.007
+    2300108: Dirt.008
+    2300110: Dirt.009
+    2300112: Dirt.010
+    2300114: Dirt.011
+    2300116: Dirt.012
+    2300118: Dirt.013
+    2300120: Dirt.014
+    2300122: Dirt.015
+    2300124: Dirt.016
+    2300126: Dirt.017
+    2300128: Dirt.018
+    2300130: Dirt.019
+    2300132: Dirt.020
+    2300134: Dirt.021
+    2300136: Dirt.022
+    2300138: Dirt.023
+    2300140: Dirt.024
+    2300142: Dirt.025
+    2300144: Dirt.026
+    2300146: Dirt.027
+    2300148: Dirt.028
+    2300150: Dirt.029
+    2300152: Elbow Joint.010
+    2300154: Elbow Joint.011
+    2300156: Elbow Joint.012
+    2300158: Elbow Joint.013
+    2300160: Plastic_Cup
+    2300162: Plastic_Cup.001
+    2300164: Plastic_Cup.002
+    2300166: Plastic_Cup.003
+    2300168: Plastic_Cup.004
+    2300170: Plastic_Cup.005
+    2300172: Plastic_Cup.006
+    2300174: Plastic_Cup.007
+    2300176: Plastic_Cup.008
+    2300178: Plastic_Cup.009
+    2300180: Plastic_Cup.010
+    2300182: Plastic_Cup.011
+    2300184: Plastic_Cup.012
+    2300186: Plastic_Cup.013
+    2300188: Plastic_Cup.014
+    2300190: Plastic_Cup.015
+    2300192: Plastic_Cup.016
+    2300194: Plastic_Cup.017
+    2300196: Plastic_Cup.018
+    2300198: Plastic_Cup.019
+    2300200: Plastic_Cup.020
+    2300202: Plastic_Cup.021
+    2300204: Plastic_Cup.022
+    2300206: Plastic_Cup.023
+    2300208: Plastic_Cup.024
+    2300210: Plastic_Cup.025
+    2300212: Plastic_Cup.026
+    2300214: Plastic_Cup.027
+    2300216: Plastic_Cup.028
+    2300218: Plastic_Cup.029
+    3300000: 32"PVCPipe
+    3300002: 32"PVCPipe.001
+    3300004: 32"PVCPipe_Large
+    3300006: 32"PVCPipe_Large.001
+    3300008: 32"PVCPipe_Med
+    3300010: 32"PVCPipe_Med.001
+    3300012: 32"PVCPipe_Med.002
+    3300014: 32"PVCPipe_Med.003
+    3300016: 32"PVCPipe_Med.004
+    3300018: 32"PVCPipe_Med.005
+    3300020: 32"PVCPipe_Small
+    3300022: 32"PVCPipe_Small.001
+    3300024: 32"PVCPipe_Small.002
+    3300026: 32"PVCPipe_Small.003
+    3300028: 32MM PVC TEE
+    3300030: 32MM PVC TEE.001
+    3300032: 32MM PVC TEE.002
+    3300034: 32MM PVC TEE.003
+    3300036: 32MM PVC TEE.004
+    3300038: 32MM PVC TEE.005
+    3300040: 32MM PVC TEE.006
+    3300042: 32MM PVC TEE.007
+    3300044: 32mm SOCKET
+    3300046: 32mm SOCKET.001
+    3300048: 32mm SOCKET.002
+    3300050: 32mm SOCKET.003
+    3300052: 4" pipe clip
+    3300054: 4" pipe clip.001
+    3300056: 4" pipe clip.002
+    3300058: 4" pipe clip.003
+    3300060: 4" pipe clip.004
+    3300062: 4" pipe clip.005
+    3300064: 4" pipe clip.006
+    3300066: 4" pipe clip.007
+    3300068: 4" PVC pipe (3FT)
+    3300070: 4" PVC pipe (3FT).001
+    3300072: 4" PVC pipe (3FT).002
+    3300074: 4" PVC pipe (3FT).003
+    3300076: 4''endCap
+    3300078: 4''endCap.001
+    3300080: 4''endCap.002
+    3300082: 4''endCap.003
+    3300084: 4''endCap.004
+    3300086: 4''endCap.005
+    3300088: 4''endCap.006
+    3300090: 4''endCap.007
+    3300092: Dirt
+    3300094: Dirt.001
+    3300096: Dirt.002
+    3300098: Dirt.003
+    3300100: Dirt.004
+    3300102: Dirt.005
+    3300104: Dirt.006
+    3300106: Dirt.007
+    3300108: Dirt.008
+    3300110: Dirt.009
+    3300112: Dirt.010
+    3300114: Dirt.011
+    3300116: Dirt.012
+    3300118: Dirt.013
+    3300120: Dirt.014
+    3300122: Dirt.015
+    3300124: Dirt.016
+    3300126: Dirt.017
+    3300128: Dirt.018
+    3300130: Dirt.019
+    3300132: Dirt.020
+    3300134: Dirt.021
+    3300136: Dirt.022
+    3300138: Dirt.023
+    3300140: Dirt.024
+    3300142: Dirt.025
+    3300144: Dirt.026
+    3300146: Dirt.027
+    3300148: Dirt.028
+    3300150: Dirt.029
+    3300152: Elbow Joint.010
+    3300154: Elbow Joint.011
+    3300156: Elbow Joint.012
+    3300158: Elbow Joint.013
+    3300160: Plastic_Cup
+    3300162: Plastic_Cup.001
+    3300164: Plastic_Cup.002
+    3300166: Plastic_Cup.003
+    3300168: Plastic_Cup.004
+    3300170: Plastic_Cup.005
+    3300172: Plastic_Cup.006
+    3300174: Plastic_Cup.007
+    3300176: Plastic_Cup.008
+    3300178: Plastic_Cup.009
+    3300180: Plastic_Cup.010
+    3300182: Plastic_Cup.011
+    3300184: Plastic_Cup.012
+    3300186: Plastic_Cup.013
+    3300188: Plastic_Cup.014
+    3300190: Plastic_Cup.015
+    3300192: Plastic_Cup.016
+    3300194: Plastic_Cup.017
+    3300196: Plastic_Cup.018
+    3300198: Plastic_Cup.019
+    3300200: Plastic_Cup.020
+    3300202: Plastic_Cup.021
+    3300204: Plastic_Cup.022
+    3300206: Plastic_Cup.023
+    3300208: Plastic_Cup.024
+    3300210: Plastic_Cup.025
+    3300212: Plastic_Cup.026
+    3300214: Plastic_Cup.027
+    3300216: Plastic_Cup.028
+    3300218: Plastic_Cup.029
+    4300000: 4" pipe clip
+    4300002: 4" PVC pipe (3FT)
+    4300004: 4" PVC pipe (3FT).001
+    4300006: 4" PVC pipe (3FT).002
+    4300008: 4" PVC pipe (3FT).003
+    4300010: 4''endCap
+    4300012: 4''endCap.001
+    4300014: 4''endCap.002
+    4300016: 4''endCap.003
+    4300018: 4''endCap.004
+    4300020: 4''endCap.005
+    4300022: 4''endCap.006
+    4300024: 4''endCap.007
+    4300026: Plastic_Cup
+    4300028: Dirt
+    4300030: Plastic_Cup.001
+    4300032: Plastic_Cup.002
+    4300034: Plastic_Cup.003
+    4300036: Plastic_Cup.004
+    4300038: Plastic_Cup.005
+    4300040: Plastic_Cup.006
+    4300042: Plastic_Cup.007
+    4300044: Plastic_Cup.008
+    4300046: Plastic_Cup.009
+    4300048: Plastic_Cup.010
+    4300050: Dirt.010
+    4300052: Plastic_Cup.011
+    4300054: Plastic_Cup.012
+    4300056: Plastic_Cup.013
+    4300058: Plastic_Cup.014
+    4300060: Plastic_Cup.015
+    4300062: Plastic_Cup.016
+    4300064: Plastic_Cup.017
+    4300066: Plastic_Cup.018
+    4300068: Plastic_Cup.019
+    4300070: Plastic_Cup.020
+    4300072: Plastic_Cup.021
+    4300074: Plastic_Cup.022
+    4300076: Plastic_Cup.023
+    4300078: Plastic_Cup.024
+    4300080: Plastic_Cup.025
+    4300082: Plastic_Cup.026
+    4300084: Plastic_Cup.027
+    4300086: Plastic_Cup.028
+    4300088: Plastic_Cup.029
+    4300090: 32"PVCPipe_Large
+    4300092: 32"PVCPipe_Large.001
+    4300094: 32"PVCPipe_Med
+    4300096: 32"PVCPipe_Med.001
+    4300098: 32"PVCPipe_Med.002
+    4300100: 32"PVCPipe_Med.003
+    4300102: 32"PVCPipe_Med.004
+    4300104: 32"PVCPipe_Med.005
+    4300106: 32"PVCPipe_Small
+    4300108: 32mm SOCKET
+    4300110: 32mm SOCKET.001
+    4300112: 32mm SOCKET.002
+    4300114: 32mm SOCKET.003
+    4300116: 32"PVCPipe.001
+    4300118: 32MM PVC TEE.001
+    4300120: 32"PVCPipe
+    4300122: Elbow Joint.010
+    4300124: Elbow Joint.011
+    4300126: Elbow Joint.012
+    4300128: Elbow Joint.013
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic cup
+    second: {fileID: 2800000, guid: 07a686f9662c2944bbfd2d83aa59ffa3, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

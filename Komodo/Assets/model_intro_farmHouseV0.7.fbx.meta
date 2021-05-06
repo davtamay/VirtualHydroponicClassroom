@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 99f167ddbafc73c4385a3d89f568eada
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: mesh_farm_BigGate
+    100002: mesh_farm_building
+    100004: mesh_farm_cabinet
+    100006: mesh_farm_gate
+    100008: mesh_farm_gatePole
+    100010: mesh_farm_lightFixture
+    100012: mesh_farm_longfence
+    100014: mesh_farm_mDoorL
+    100016: mesh_farm_mDoorR
+    100018: mesh_farm_troff
+    100020: mesh_farm_troff2
+    100022: mesh_farm_watertower
+    100024: mesh_farm_x
+    100026: //RootNode
+    100028: UV_farmhouse_mergedObject.003
+    400000: mesh_farm_BigGate
+    400002: mesh_farm_building
+    400004: mesh_farm_cabinet
+    400006: mesh_farm_gate
+    400008: mesh_farm_gatePole
+    400010: mesh_farm_lightFixture
+    400012: mesh_farm_longfence
+    400014: mesh_farm_mDoorL
+    400016: mesh_farm_mDoorR
+    400018: mesh_farm_troff
+    400020: mesh_farm_troff2
+    400022: mesh_farm_watertower
+    400024: mesh_farm_x
+    400026: //RootNode
+    400028: UV_farmhouse_mergedObject.003
+    2100000: material_farmHouse
+    2300000: mesh_farm_BigGate
+    2300002: mesh_farm_building
+    2300004: mesh_farm_cabinet
+    2300006: mesh_farm_gate
+    2300008: mesh_farm_gatePole
+    2300010: mesh_farm_lightFixture
+    2300012: mesh_farm_longfence
+    2300014: mesh_farm_mDoorL
+    2300016: mesh_farm_mDoorR
+    2300018: mesh_farm_troff
+    2300020: mesh_farm_troff2
+    2300022: mesh_farm_watertower
+    2300024: mesh_farm_x
+    2300026: UV_farmhouse_mergedObject.003
+    3300000: mesh_farm_BigGate
+    3300002: mesh_farm_building
+    3300004: mesh_farm_cabinet
+    3300006: mesh_farm_gate
+    3300008: mesh_farm_gatePole
+    3300010: mesh_farm_lightFixture
+    3300012: mesh_farm_longfence
+    3300014: mesh_farm_mDoorL
+    3300016: mesh_farm_mDoorR
+    3300018: mesh_farm_troff
+    3300020: mesh_farm_troff2
+    3300022: mesh_farm_watertower
+    3300024: mesh_farm_x
+    3300026: UV_farmhouse_mergedObject.003
+    4300000: mesh_farm_cabinet
+    4300002: mesh_farm_lightFixture
+    4300004: mesh_farm_troff2
+    4300006: mesh_farm_gatePole
+    4300008: mesh_farm_watertower
+    4300010: mesh_farm_gate
+    4300012: mesh_farm_longfence
+    4300014: mesh_farm_mDoorR
+    4300016: mesh_farm_BigGate
+    4300018: mesh_farm_building
+    4300020: mesh_farm_x
+    4300022: mesh_farm_mDoorL
+    4300024: UV_farmhouse_mergedObject.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: image_BaseLayer_farmHouse
+    second: {fileID: 2800000, guid: 179739a586bf9604283aa66956f63872, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
